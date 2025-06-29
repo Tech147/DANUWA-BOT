@@ -15,9 +15,9 @@ const defaultConfig = {
   SESSION_ID: "6AhiRSjJ#6Nbas9gdfzg0Mulm0bmyvRdSctJDg9Pkq4y_RB2g6do", // Put your session id here
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
   ALIVE_MSG: "*Hello👋 Tech Hasitha Studio 😍*", // Change alive msg from here
-  OPENAI_API_KEY: "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",// Add OPENAI API key here
-  GEMINI_API_KEY: "AIzaSyACZQ9aljh5lJMLpUKUxVBq2spAz5qVBq8", // Add Gemini API key here
-  REMOVE_BG_API_KEY:"87uq47S8BZ5MLvdSLwn5SDun", // Add removebg API key here
+  OPENAI_API_KEY: "",// Add OPENAI API key here
+  GEMINI_API_KEY: "", // Add Gemini API key here
+  REMOVE_BG_API_KEY:"", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
   BOT_OWNER: "94727809813", // Replace your bot owner number here with 94(country code)
   ownerNumber: ["94727809813"], // Replace your bot owner number here (same as bot owner number)
